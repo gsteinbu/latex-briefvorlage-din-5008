@@ -7,7 +7,7 @@ Das Aussehen ist möglichst schlicht und minimalistisch, soweit dies die Gebrauc
 
 Ein Teil der Elemente ist auskommentiert und kann bei Bedarf aktiviert werden. Z.B. "Kundenummer" oder "Ihr Zeichen", welche seltener benötigt werden. Außerdem kann das Aussehen leicht angepasst werden.
 
-[Latex-Briefvorlage.tex](https://github.com/PanCakeConnaisseur/latex-briefvorlage-din-5008/blob/master/Latex-Briefvorlage.tex) ist alles was benötigt wird, es gibt bewusst keine Includes. Alle anderen Dateien sind Beispiele und Dokumentation.
+[Latex-Briefvorlage.tex](https://github.com/PanCakeConnaisseur/latex-briefvorlage-din-5008/blob/master/Latex-Briefvorlage.tex) ist alles was unbedingt benötigt wird. Falls die Datei `online-marke.pdf` vorhanden ist, wird diese anstatt des Adressfeldes genutzt. Damit können Post online Marken (siehe [hier](https://shop.deutschepost.de/?cid=AdW_Shop&s_kwcid=AL!6093!3!433088716297!e!!g!!online%20briefmarke)) verwendet werden. Empfänger und optional Absender sollten auf der Briefmarke hihnterlegt sein und diese muss im Format 'DIN A4 Normalpapier (Einlegeblatt)' heruntergeladen werden.
 
 ## Screenshots
 
